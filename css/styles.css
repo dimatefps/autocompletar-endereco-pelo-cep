@@ -137,3 +137,10 @@
   width: 8em;
   border-radius: 1.5em;
 }
+
+/* Responsive */
+@media (min-width: 500px){
+  #save-btn {
+    width: 8em;
+  }
+}
