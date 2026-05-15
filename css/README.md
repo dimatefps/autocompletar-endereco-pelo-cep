@@ -2,6 +2,9 @@
 
 Este projeto é um formulário de endereço inteligente que utiliza a **Fetch API** do JavaScript para buscar dados de localização em tempo real a partir do CEP informado.
 
+![alt text](assets/image.png)
+![alt text](assets/image-1.png)
+
 ## 🚀 Funcionalidades
 - **Preenchimento Automático**: Busca Rua, Bairro, Cidade e Estado instantaneamente.
 - **Validação de Entrada**: Bloqueio de caracteres não numéricos via Regex.
